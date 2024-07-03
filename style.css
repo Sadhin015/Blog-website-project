@@ -52,6 +52,12 @@
   }
   .form-control {
     flex-direction: column;
+  } 
+  .form-control input {
+    width: 30rem;
+  }
+  .form-control textarea {
+    width: 30rem;
   }
 }
 * {
